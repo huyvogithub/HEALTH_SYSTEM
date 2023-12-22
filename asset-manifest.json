@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/REACTJS_TEST/static/css/main.86e11f03.css",
-    "main.js": "/REACTJS_TEST/static/js/main.5299ed75.js",
-    "static/media/ytenenjpg.jpg": "/REACTJS_TEST/static/media/ytenenjpg.2f1c1a06ab4a7fa4998b.jpg",
-    "index.html": "/REACTJS_TEST/index.html",
-    "main.86e11f03.css.map": "/REACTJS_TEST/static/css/main.86e11f03.css.map",
-    "main.5299ed75.js.map": "/REACTJS_TEST/static/js/main.5299ed75.js.map"
+    "main.css": "/HEALTH_SYSTEM/static/css/main.6be04ab6.css",
+    "main.js": "/HEALTH_SYSTEM/static/js/main.5299ed75.js",
+    "static/media/ytenenjpg.jpg": "/HEALTH_SYSTEM/static/media/ytenenjpg.2f1c1a06ab4a7fa4998b.jpg",
+    "index.html": "/HEALTH_SYSTEM/index.html",
+    "main.6be04ab6.css.map": "/HEALTH_SYSTEM/static/css/main.6be04ab6.css.map",
+    "main.5299ed75.js.map": "/HEALTH_SYSTEM/static/js/main.5299ed75.js.map"
   },
   "entrypoints": [
-    "static/css/main.86e11f03.css",
+    "static/css/main.6be04ab6.css",
     "static/js/main.5299ed75.js"
   ]
 }
