@@ -14,7 +14,7 @@ const UserList = () => {
       setError(null);
     } catch (error) {
       console.error('Lỗi khi lấy dữ liệu:', error);
-      setError('Không thể tải dữ liệu. Vui lòng thử lại sau.');
+      setError('Không thể tải dữ liệu. Vui lòng thử lại sau nha.');
     } finally {
       setLoading(false);
     }

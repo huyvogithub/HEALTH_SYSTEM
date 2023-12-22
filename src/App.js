@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1 className="app-title">ỨNG DỤNG QUẢN LÝ BỆNH NHÂN</h1>
+        <h1 className="app-title">ỨNG DỤNG QUẢN LÝ BỆNH NHÂN CỦA HUY</h1>
       </header>
       <main>
         <div className="form-container">
