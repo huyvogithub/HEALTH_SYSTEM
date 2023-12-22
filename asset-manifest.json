@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/REACTJS_TEST/static/css/main.86e11f03.css",
+    "main.js": "/REACTJS_TEST/static/js/main.7b6862e1.js",
+    "static/media/ytenenjpg.jpg": "/REACTJS_TEST/static/media/ytenenjpg.2f1c1a06ab4a7fa4998b.jpg",
+    "index.html": "/REACTJS_TEST/index.html",
+    "main.86e11f03.css.map": "/REACTJS_TEST/static/css/main.86e11f03.css.map",
+    "main.7b6862e1.js.map": "/REACTJS_TEST/static/js/main.7b6862e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86e11f03.css",
+    "static/js/main.7b6862e1.js"
+  ]
+}
